@@ -280,24 +280,24 @@ If you use SIA in your research, please cite:
 }
 ```
 
-
 ---
 
-## 🚨 Scoras Digital DevOps Agent — Verificação
+## ⚠️ Scoras Digital DevOps Agent — Verificação
 
-[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-27%2F100%20(F)-red?style=for-the-badge&logo=github)](./andersonamaral2_sia_2026-06-18.md)
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-58%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_sia_2026-06-19.md)
 [![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/sia)
 
 | Campo | Valor |
 |-------|-------|
 | 🤖 Avaliado por | Scoras Digital DevOps Agent |
-| 📅 Data da Avaliação | `18/06/2026` |
-| 📊 Score DevOps & Segurança | `27/100` |
-| 🎯 Nota | F — Crítico |
-| 📄 Relatório Completo | [andersonamaral2_sia_2026-06-18.md](./andersonamaral2_sia_2026-06-18.md) |
+| 📅 Data da Avaliação | `19/06/2026` |
+| 📊 Score DevOps & Segurança | `58/100` |
+| 🎯 Nota | C — Regular |
+| 📄 Relatório Completo | [andersonamaral2_sia_2026-06-19.md](./andersonamaral2_sia_2026-06-19.md) |
 
 > *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
 > *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
-> *Última avaliação: **18/06/2026***
+> *Última avaliação: **19/06/2026***
 
 ---
+
